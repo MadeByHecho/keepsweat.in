@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal</title>
+    <description></description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 19 Nov 2015 06:00:27 -0600</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2015 06:00:27 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Introduction</title>
+        <description>&lt;p&gt;Working out isn’t easy.  Since I stopped playing sports in high school it’s become one of those things I know I should do but for one reason or another don’t.  The reasons are many and varying: I think I don’t have enough time, I’m intimidated by traditional gyms, I don’t see progress fast enough, I’m too tired, and so on and so on.&lt;/p&gt;
+
+&lt;p&gt;I don’t think I’m particularly unique in this feeling and you can probably relate to one or all of my reasons for not working out.  The thing is I no longer want to accept that.  I no longer want to feel like I don’t have time to work out, I no longer want to be forced to feel judged and intimidated by all the fit guys in the gym around me.&lt;/p&gt;
+
+&lt;p&gt;I’m building a business that solves those problems, not only for myself but for everybody else that’s not working out as much as they should.  That’s where &lt;a href=&quot;http://keepsweat.in&quot;&gt;SWEAT.&lt;/a&gt; comes in.  Right now it’s a simple Apple TV app that I built over the last 5 weeks but over time it’ll be all that you need to start sweating, one drop at a time.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Nov 2015 16:26:16 -0600</pubDate>
+        <link>http://yourdomain.com/story/2015/11/01/introduction.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/story/2015/11/01/introduction.html</guid>
+        
+        
+        <category>story</category>
+        
+      </item>
+    
+  </channel>
+</rss>
