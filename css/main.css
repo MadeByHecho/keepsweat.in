@@ -198,3 +198,11 @@ footer a {
     padding: 0;
   }
 }
+
+/* FAQ */
+
+#faq h1 {
+  font-family: 'AvenirNext-Light', 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Helvetica, Arial, sans-serif;
+  color: rgb(38, 145, 158);
+  text-align: center;
+}
